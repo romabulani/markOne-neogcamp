@@ -1,6 +1,5 @@
 
-# CLI Game
+# How well do you know me?
 
-This is done as the part of level Zero mark One project of neogcamp.
-Its small quiz to check how much do you know about me!
+Description : Its small quiz developed using NodeJS to check how much do you know about me! You have to answer 5 questions about me and based on your answers, you will score points.
 Link to the game is [here](https://replit.com/@RomaBulani/markOne?embed=1&output=1#index.js).
